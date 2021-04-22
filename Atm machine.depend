@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599494199 source:c:\users\admin\desktop\projects c++\atm machine\main.cpp
+	<iostream>
+	<vector>
+
